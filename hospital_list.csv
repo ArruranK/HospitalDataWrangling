@@ -1,0 +1,99 @@
+city,postal_code,hospital_name,health_authority
+ABBOTSFORD,V2S 0C2,Abbotsford Regional Hospital and Cancer Centre ,Fraser Health Authority
+ALERT BAY,V0N 1A0,Cormorant Island Community Health Centre ,Vancouver Island Health Authority
+ASHCROFT,V0K 1A0,Ashcroft and District General Hospital ,Interior Health Authority
+BELLA  BELLA,V0T 1Z0,R.W. Large Memorial Hospital ,Vancouver Coastal Health Authority
+BELLA COOLA,V0T 1C0,Bella Coola General Hospital ,Vancouver Coastal Health Authority
+BURNABY,V5G 2X6,Burnaby Hospital ,Fraser Health Authority
+BURNS LAKE,V0J 1E0,Lakes District Hospital and Health Centre ,Northern Health Authority
+CAMPBELL RIVER,V9W 3V1,"North Island Hospital, Campbell River & District ",Vancouver Island Health Authority
+CASTLEGAR,V1N 2H7,Castlegar and District Community Health Centre ,Interior Health Authority
+CHEMAINUS,V0R 1K1,Chemainus Health Care Centre ,Vancouver Island Health Authority
+CHETWYND,V0C 1J0,Chetwynd General Hospital ,Northern Health Authority
+CHILLIWACK,V2P 1P7,Chilliwack General Hospital ,Fraser Health Authority
+CLEARWATER,V0E 1N0,Dr. Helmcken Memorial Hospital ,Interior Health Authority
+COMOX,V9M 1P2,St. Joseph’s General Hospital,Vancouver Island Health Authority
+COURTENAY,V9N 0B8,"North Island Hospital, Comox Valley ",Vancouver Island Health Authority
+CRANBROOK,V1C 3H9,East Kootenay Regional Hospital ,Interior Health Authority
+CRESTON,V0B 1G0,Creston Valley Hospital ,Interior Health Authority
+DAWSON CREEK,V1G 3W8,Dawson Creek and District Hospital ,Northern Health Authority
+DELTA,V4K 3V6,Delta Hospital ,Fraser Health Authority
+DUNCAN,V9L 1E5,Cowichan District Hospital ,Vancouver Island Health Authority
+FERNIE,V0B 1M0,Elk Valley Hospital ,Interior Health Authority
+FORT NELSON,V0C 1R0,Fort Nelson General Hospital ,Northern Health Authority
+FORT ST. JAMES,V0J 1P0,Stuart Lake Hospital ,Northern Health Authority
+FORT ST. JOHN,V1J 0J5,Fort St. John General Hospital ,Northern Health Authority
+GOLDEN,V0A 1H0,Golden and District General Hospital ,Interior Health Authority
+GRAND FORKS,V0H 1H0,Boundary Hospital ,Interior Health Authority
+HAZELTON,V0J 1Y0,Wrinch Memorial Hospital ,Northern Health Authority
+HOPE,V0X 1L4,Fraser Canyon Hospital ,Fraser Health Authority
+INVERMERE,V0A 1K0,Invermere and District Hospital ,Interior Health Authority
+KAMLOOPS,V2C 2T1,Royal Inland Hospital ,Interior Health Authority
+KASLO,V0G 1M0,Victorian Community Health Centre of Kaslo ,Interior Health Authority
+KELOWNA,V1Y 1T2,Kelowna General Hospital ,Interior Health Authority
+KITIMAT,V8C 2S3,Kitimat General Hospital ,Northern Health Authority
+LADYSMITH,V9G 1A1,Ladysmith Community Health Centre ,Vancouver Island Health Authority
+LANGLEY,V3A 4H4,Langley Memorial Hospital ,Fraser Health Authority
+LILLOOET,V0K 1V0,Lillooet Hospital and Health Centre ,Interior Health Authority
+LYTTON,V0K 1Z0,St. Bartholomew's Health Centre ,Interior Health Authority
+MACKENZIE,V0J 2C0,Mackenzie and District Hospital ,Northern Health Authority
+MAPLE RIDGE,V2X 7G5,Ridge Meadows Hospital & Health Care Centre ,Fraser Health Authority
+MASSET,V0T 1M0,Northern Haida Gwaii Hospital and Health Centre ,Northern Health Authority
+MCBRIDE,V0J 2E0,McBride and District Hospital ,Northern Health Authority
+MERRITT,V1K 1C6,Nicola Valley Hospital and Health Centre ,Interior Health Authority
+MISSION,V2V 3H5,Mission Memorial Hospital ,Fraser Health Authority
+NAKUSP,V0G 1R0,Arrow Lakes Hospital ,Interior Health Authority
+NANAIMO,V9S 2B7,Nanaimo Regional General Hospital ,Vancouver Island Health Authority
+NELSON,V1L 2V1,Kootenay Lake Hospital ,Interior Health Authority
+NEW DENVER,V0G 1S0,Slocan Community Health Centre ,Interior Health Authority
+NEW WESTMINSTER,V3L 3W7,Royal Columbian Hospital ,Fraser Health Authority
+NORTH VANCOUVER,V7L 2L7,Lions Gate Hospital ,Vancouver Coastal Health Authority
+OLIVER,V0H 1T0,South Okanagan General Hospital ,Interior Health Authority
+100 MILE HOUSE,V0K 2E0,100 Mile District General Hospital ,Interior Health Authority
+PENTICTON,V2A 3G6,Penticton Regional Hospital ,Interior Health Authority
+PORT ALBERNI,V9Y 4S1,West Coast General Hospital ,Vancouver Island Health Authority
+PORT ALICE,V0N 2N0,Port Alice Hospital ,Vancouver Island Health Authority
+PORT HARDY,V0N 2P0,Port Hardy Hospital ,Vancouver Island Health Authority
+PORT MCNEILL,V0N 2R0,Port McNeill and District Hospital ,Vancouver Island Health Authority
+PORT MOODY,V3H 3W9,Eagle Ridge Hospital & Health Care Centre ,Fraser Health Authority
+POWELL RIVER,V8A 5R3,Powell River General Hospital ,Vancouver Coastal Health Authority
+PRINCE GEORGE,V2M 1S2,The University Hospital of Northern British Columbia ,Northern Health Authority
+PRINCE RUPERT,V8J 2A6,Prince Rupert Regional Hospital ,Northern Health Authority
+PRINCETON,V0X 1W0,Princeton General Hospital ,Interior Health Authority
+VILLAGE OF,V0T 1S0,Haida Gwaii Hospital and Health Centre-Xaayda Gwaay Ngaaysdll Naay ,Northern Health Authority
+QUESNEL,V2J 2K7,G.R. Baker Memorial Hospital ,Northern Health Authority
+REVELSTOKE,V0E 2S0,Queen Victoria Hospital ,Interior Health Authority
+RICHMOND,V6X 1A2,Richmond Hospital ,Vancouver Coastal Health Authority
+SAANICHTON,V8M 2B2,Saanich Peninsula Hospital ,Vancouver Island Health Authority
+SALMON ARM,V1E 4N6,Shuswap Lake General Hospital ,Interior Health Authority
+SALT SPRING ISLAND,V8K 1T1,Lady Minto Gulf Islands Hospital ,Vancouver Island Health Authority
+SECHELT,V0N 3A0,Sechelt Hospital/shíshálh Hospital ,Vancouver Coastal Health Authority
+SMITHERS,V0J 2N0,Bulkley Valley District Hospital ,Northern Health Authority
+SPARWOOD,V0B 2G0,Sparwood Health Centre ,Interior Health Authority
+SQUAMISH,V8B 0J3,Squamish General Hospital ,Vancouver Coastal Health Authority
+STEWART,V0T 1W0,Stewart General Hospital ,Northern Health Authority
+SUMMERLAND,V0H 1Z0,Summerland Memorial Health Centre ,Interior Health Authority
+SURREY,V3V 1Z2,Surrey Memorial Hospital ,Fraser Health Authority
+SURREY,V3T 0G9,Jim Pattison Outpatient Care and Surgery Centre ,Fraser Health Authority
+TERRACE,V8G 2W7,Mills Memorial Hospital ,Northern Health Authority
+TOFINO,V0R 2Z0,Tofino General Hospital ,Vancouver Island Health Authority
+TRAIL,V1R 4M1,Kootenay Boundary Regional Hospital ,Interior Health Authority
+VANCOUVER,V5Z 4E6,British Columbia Cancer Agency ,Provincial Health Services Authority
+VANCOUVER,V6H 3N1,British Columbia's Children's Hospital ,Provincial Health Services Authority
+VANCOUVER,V5Z 2G9,G.F. Strong Centre ,Vancouver Coastal Health Authority
+VANCOUVER,V5P 3L6,Holy Family Hospital Dianne Doyle President and Chief Executive Officer ,Providence Health Care Society
+VANCOUVER,V5T 3N4,Mount Saint Joseph Hospital Dianne Doyle President and Chief Executive Officer ,Providence Health Care Society
+VANCOUVER,V6P 1S1,George Pearson Centre ,Vancouver Coastal Health Authority
+VANCOUVER,V6Z 1Y6,St. Paul's Hospital Dianne Doyle President and Chief Executive Officer ,Providence Health Care Society
+VANCOUVER,V5M 3E8,Sunny Hill Health Centre for Children ,Provincial Health Services Authority
+VANCOUVER,V6H 3N1,British Columbia's Women's Hospital and Health Care Centre ,Provincial Health Services Authority
+VANCOUVER,V6T 2B5,U.B.C. Health Sciences Centre Hospital ,Vancouver Coastal Health Authority
+VANCOUVER,V5Z 1M9,Vancouver General Hospital ,Vancouver Coastal Health Authority
+VANDERHOOF,V0J 3A0,St. John Hospital ,Northern Health Authority
+VERNON,V1T 5L2,Vernon Jubilee Hospital ,Interior Health Authority
+VICTORIA,V8N 1V7,Queen Alexandra Centre for Children's Health ,Vancouver Island Health Authority
+VICTORIA,V8R 1J8,Royal Jubilee Hospital ,Vancouver Island Health Authority
+VICTORIA,V9A 1L2,The Gorge Road Hospital ,Vancouver Island Health Authority
+VICTORIA,V8Z 6R5,Victoria General Hospital ,Vancouver Island Health Authority
+WHITE ROCK,V4B 2R4,Peace Arch District Hospital ,Fraser Health Authority
+WILLIAMS LAKE,V2G 2G8,Cariboo Memorial Hospital ,Interior Health Authority
